@@ -421,6 +421,6 @@ nav .fa-solid {
 .badge-base, .LI-profile-badge {
   margin-top: 1rem;
 }
-.profile-badge_header{ 
+.profile-badge__header{ 
   background-color: var(--primary);
 }  
