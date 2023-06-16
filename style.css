@@ -418,6 +418,6 @@ nav .fa-solid {
   color: #61b756;
   margin-top: -40px;
 }
-.badge-base .LI-profile-badge {
+.badge-base, .LI-profile-badge {
   margin-top: 1rem;
 }
